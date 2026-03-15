@@ -1,4 +1,4 @@
-![Screenshot_20260315_214321_Android_dolg1](https://github.com/user-attachments/assets/7e229327-8043-4051-a303-9efde913c850)Никифоров Владимир ЦТЭ Б9123-09.03.03 
+Никифоров Владимир ЦТЭ Б9123-09.03.03 
 
 Jetpack Compose Hilt (DI) Retrofit (HTTP клиент) Navigation Compose MVVM архитектура
 
